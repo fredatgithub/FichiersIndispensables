@@ -7,11 +7,11 @@
 	ignorecase = true
 	hideDotFiles = dotGitOnly
 [remote "origin"]
-	url = https://github.com/fredatgithub/whateverProject.git
+	url = https://github.com/yourLoginName/whateverProject.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
 [user]
-	name = Fred
+	name = Your name
 	email = youremailAddress@yourFAI.com

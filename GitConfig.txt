@@ -14,4 +14,4 @@
 	merge = refs/heads/master
 [user]
 	name = Your name
-	email = youremailAddress@yourFAI.com
+	email = your_E-mailAddress@yourISP.com

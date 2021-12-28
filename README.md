@@ -1,7 +1,7 @@
 # FichiersIndispensables
 comme son nom l'indique
 
-#create a new repository on the command line
+**create a new repository on the command line**
 
 echo "# LeCompteEstBon" >> README.md
 
@@ -17,7 +17,7 @@ git remote add origin https://github.com/fredatgithub/LeCompteEstBon.git
 
 git push -u origin master
 
-#…or push an existing repository from the command line
+**Or push an existing repository from the command line**
 
 git remote add origin https://github.com/fredatgithub/LeCompteEstBon.git
 

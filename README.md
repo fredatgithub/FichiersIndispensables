@@ -1,5 +1,5 @@
 # FichiersIndispensables
-comme son nom l'indique
+comme son nom l'indique, fichiers utils et indispensables
 
 **create a new repository on the command line**
 
